@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact name="Game_Tetris:jar">
+    <output-path>E:/Java projects/Game_Tetris/out/artifacts/Game_Tetris_jar</output-path>
+    <root id="root">
+      <element id="archive" name="Game_Tetris.jar">
+        <element id="module-output" name="Game_Tetris" />
+      </element>
+    </root>
+  </artifact>
+</component>
